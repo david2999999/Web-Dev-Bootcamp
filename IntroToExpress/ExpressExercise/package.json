@@ -1,0 +1,14 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "description": "Simple Express exercise",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Jiang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
